@@ -68,7 +68,7 @@ const page = () => {
       setAdminUsername(getRes.data.user.username)
     } catch (error) {
       console.log("Error: ", error)
-      router.push("/")
+      // router.push("/")
     }
   }
 

@@ -1,9 +1,10 @@
 import { getServerSession } from "next-auth";
 import { NextResponse } from "next/server";
-import { authOptions } from "../auth/[...nextauth]/route";
+import {authOptions} from "../../lib/authOptions"
 
 export async function GET() {
   const session = await getServerSession(authOptions);
+  console.log("session", session)
   if (!session || !session.user) {
     return NextResponse.json({ responseCode: 401, responseStatus: "Unauthorized", responseDetail: "Session not found" },{ status: 401 });
   }
@@ -12,7 +13,7 @@ export async function GET() {
 }
 
 export async function POST(request) {
-  const session = await getServerSession(authOptions);
+  const session = await getServerSession();
 
   if (!session || !session.user) {
     return NextResponse.json({ responseCode: 401, responseStatus: "Unauthorized", responseDetail: "Session not found" }, { status: 401 });
