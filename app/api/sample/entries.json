@@ -1,0 +1,902 @@
+[
+  {
+    "OutletName": "Outlet C",
+    "FullName": "Person 1",
+    "CardNo": "XXXX-XXXX-XXXX-3230",
+    "EntryNo": "100000",
+    "ExtRefId": "602588",
+    "GPSource": "In-store",
+    "Date": "09/22/2024"
+  },
+  {
+    "OutletName": "Outlet B",
+    "FullName": "Person 2",
+    "CardNo": "XXXX-XXXX-XXXX-4229",
+    "EntryNo": "100001",
+    "ExtRefId": "540982",
+    "GPSource": "Mobile App",
+    "Date": "10/29/2024"
+  },
+  {
+    "OutletName": "Outlet A",
+    "FullName": "Person 3",
+    "CardNo": "XXXX-XXXX-XXXX-2884",
+    "EntryNo": "100002",
+    "ExtRefId": "388818",
+    "GPSource": "In-store",
+    "Date": "10/26/2024"
+  },
+  {
+    "OutletName": "Outlet A",
+    "FullName": "Person 4",
+    "CardNo": "XXXX-XXXX-XXXX-7914",
+    "EntryNo": "100003",
+    "ExtRefId": "358137",
+    "GPSource": "Mobile App",
+    "Date": "11/06/2024"
+  },
+  {
+    "OutletName": "Outlet A",
+    "FullName": "Person 5",
+    "CardNo": "XXXX-XXXX-XXXX-8425",
+    "EntryNo": "100004",
+    "ExtRefId": "180966",
+    "GPSource": "In-store",
+    "Date": "02/28/2024"
+  },
+  {
+    "OutletName": "Outlet D",
+    "FullName": "Person 6",
+    "CardNo": "XXXX-XXXX-XXXX-8800",
+    "EntryNo": "100005",
+    "ExtRefId": "341769",
+    "GPSource": "Mobile App",
+    "Date": "02/25/2024"
+  },
+  {
+    "OutletName": "Outlet D",
+    "FullName": "Person 7",
+    "CardNo": "XXXX-XXXX-XXXX-9830",
+    "EntryNo": "100006",
+    "ExtRefId": "279582",
+    "GPSource": "In-store",
+    "Date": "05/27/2024"
+  },
+  {
+    "OutletName": "Outlet D",
+    "FullName": "Person 8",
+    "CardNo": "XXXX-XXXX-XXXX-5616",
+    "EntryNo": "100007",
+    "ExtRefId": "232177",
+    "GPSource": "In-store",
+    "Date": "03/10/2024"
+  },
+  {
+    "OutletName": "Outlet A",
+    "FullName": "Person 9",
+    "CardNo": "XXXX-XXXX-XXXX-6628",
+    "EntryNo": "100008",
+    "ExtRefId": "511092",
+    "GPSource": "Mobile App",
+    "Date": "11/01/2024"
+  },
+  {
+    "OutletName": "Outlet A",
+    "FullName": "Person 10",
+    "CardNo": "XXXX-XXXX-XXXX-4694",
+    "EntryNo": "100009",
+    "ExtRefId": "690152",
+    "GPSource": "Mobile App",
+    "Date": "05/27/2024"
+  },
+  {
+    "OutletName": "Outlet C",
+    "FullName": "Person 11",
+    "CardNo": "XXXX-XXXX-XXXX-2078",
+    "EntryNo": "100010",
+    "ExtRefId": "113949",
+    "GPSource": "Online",
+    "Date": "03/11/2025"
+  },
+  {
+    "OutletName": "Outlet A",
+    "FullName": "Person 12",
+    "CardNo": "XXXX-XXXX-XXXX-4486",
+    "EntryNo": "100011",
+    "ExtRefId": "756775",
+    "GPSource": "In-store",
+    "Date": "12/12/2024"
+  },
+  {
+    "OutletName": "Outlet B",
+    "FullName": "Person 13",
+    "CardNo": "XXXX-XXXX-XXXX-3229",
+    "EntryNo": "100012",
+    "ExtRefId": "253028",
+    "GPSource": "Online",
+    "Date": "02/22/2025"
+  },
+  {
+    "OutletName": "Outlet A",
+    "FullName": "Person 14",
+    "CardNo": "XXXX-XXXX-XXXX-4362",
+    "EntryNo": "100013",
+    "ExtRefId": "743061",
+    "GPSource": "In-store",
+    "Date": "09/29/2024"
+  },
+  {
+    "OutletName": "Outlet B",
+    "FullName": "Person 15",
+    "CardNo": "XXXX-XXXX-XXXX-6136",
+    "EntryNo": "100014",
+    "ExtRefId": "663222",
+    "GPSource": "In-store",
+    "Date": "07/11/2024"
+  },
+  {
+    "OutletName": "Outlet D",
+    "FullName": "Person 16",
+    "CardNo": "XXXX-XXXX-XXXX-5243",
+    "EntryNo": "100015",
+    "ExtRefId": "519005",
+    "GPSource": "In-store",
+    "Date": "12/11/2024"
+  },
+  {
+    "OutletName": "Outlet A",
+    "FullName": "Person 17",
+    "CardNo": "XXXX-XXXX-XXXX-8745",
+    "EntryNo": "100016",
+    "ExtRefId": "329439",
+    "GPSource": "In-store",
+    "Date": "08/23/2024"
+  },
+  {
+    "OutletName": "Outlet D",
+    "FullName": "Person 18",
+    "CardNo": "XXXX-XXXX-XXXX-6612",
+    "EntryNo": "100017",
+    "ExtRefId": "334151",
+    "GPSource": "In-store",
+    "Date": "03/01/2025"
+  },
+  {
+    "OutletName": "Outlet A",
+    "FullName": "Person 19",
+    "CardNo": "XXXX-XXXX-XXXX-1396",
+    "EntryNo": "100018",
+    "ExtRefId": "347626",
+    "GPSource": "Online",
+    "Date": "10/29/2024"
+  },
+  {
+    "OutletName": "Outlet A",
+    "FullName": "Person 20",
+    "CardNo": "XXXX-XXXX-XXXX-9697",
+    "EntryNo": "100019",
+    "ExtRefId": "593251",
+    "GPSource": "Online",
+    "Date": "02/15/2024"
+  },
+  {
+    "OutletName": "Outlet C",
+    "FullName": "Person 21",
+    "CardNo": "XXXX-XXXX-XXXX-9008",
+    "EntryNo": "100020",
+    "ExtRefId": "505180",
+    "GPSource": "In-store",
+    "Date": "05/06/2024"
+  },
+  {
+    "OutletName": "Outlet D",
+    "FullName": "Person 22",
+    "CardNo": "XXXX-XXXX-XXXX-8786",
+    "EntryNo": "100021",
+    "ExtRefId": "819752",
+    "GPSource": "In-store",
+    "Date": "06/15/2024"
+  },
+  {
+    "OutletName": "Outlet D",
+    "FullName": "Person 23",
+    "CardNo": "XXXX-XXXX-XXXX-7103",
+    "EntryNo": "100022",
+    "ExtRefId": "481384",
+    "GPSource": "Mobile App",
+    "Date": "12/29/2024"
+  },
+  {
+    "OutletName": "Outlet C",
+    "FullName": "Person 24",
+    "CardNo": "XXXX-XXXX-XXXX-7909",
+    "EntryNo": "100023",
+    "ExtRefId": "496581",
+    "GPSource": "In-store",
+    "Date": "06/23/2024"
+  },
+  {
+    "OutletName": "Outlet C",
+    "FullName": "Person 25",
+    "CardNo": "XXXX-XXXX-XXXX-6786",
+    "EntryNo": "100024",
+    "ExtRefId": "711944",
+    "GPSource": "Mobile App",
+    "Date": "04/24/2024"
+  },
+  {
+    "OutletName": "Outlet B",
+    "FullName": "Person 26",
+    "CardNo": "XXXX-XXXX-XXXX-6347",
+    "EntryNo": "100025",
+    "ExtRefId": "793113",
+    "GPSource": "Mobile App",
+    "Date": "06/20/2024"
+  },
+  {
+    "OutletName": "Outlet B",
+    "FullName": "Person 27",
+    "CardNo": "XXXX-XXXX-XXXX-2656",
+    "EntryNo": "100026",
+    "ExtRefId": "628397",
+    "GPSource": "Online",
+    "Date": "09/24/2024"
+  },
+  {
+    "OutletName": "Outlet A",
+    "FullName": "Person 28",
+    "CardNo": "XXXX-XXXX-XXXX-9901",
+    "EntryNo": "100027",
+    "ExtRefId": "118562",
+    "GPSource": "Online",
+    "Date": "09/27/2024"
+  },
+  {
+    "OutletName": "Outlet B",
+    "FullName": "Person 29",
+    "CardNo": "XXXX-XXXX-XXXX-4012",
+    "EntryNo": "100028",
+    "ExtRefId": "451920",
+    "GPSource": "Mobile App",
+    "Date": "11/27/2024"
+  },
+  {
+    "OutletName": "Outlet D",
+    "FullName": "Person 30",
+    "CardNo": "XXXX-XXXX-XXXX-4434",
+    "EntryNo": "100029",
+    "ExtRefId": "571462",
+    "GPSource": "In-store",
+    "Date": "06/30/2024"
+  },
+  {
+    "OutletName": "Outlet B",
+    "FullName": "Person 31",
+    "CardNo": "XXXX-XXXX-XXXX-5029",
+    "EntryNo": "100030",
+    "ExtRefId": "651725",
+    "GPSource": "Mobile App",
+    "Date": "08/10/2024"
+  },
+  {
+    "OutletName": "Outlet A",
+    "FullName": "Person 32",
+    "CardNo": "XXXX-XXXX-XXXX-5950",
+    "EntryNo": "100031",
+    "ExtRefId": "231824",
+    "GPSource": "In-store",
+    "Date": "02/24/2025"
+  },
+  {
+    "OutletName": "Outlet A",
+    "FullName": "Person 33",
+    "CardNo": "XXXX-XXXX-XXXX-5761",
+    "EntryNo": "100032",
+    "ExtRefId": "599410",
+    "GPSource": "Mobile App",
+    "Date": "10/31/2024"
+  },
+  {
+    "OutletName": "Outlet D",
+    "FullName": "Person 34",
+    "CardNo": "XXXX-XXXX-XXXX-4935",
+    "EntryNo": "100033",
+    "ExtRefId": "509189",
+    "GPSource": "In-store",
+    "Date": "12/31/2024"
+  },
+  {
+    "OutletName": "Outlet D",
+    "FullName": "Person 35",
+    "CardNo": "XXXX-XXXX-XXXX-8804",
+    "EntryNo": "100034",
+    "ExtRefId": "959985",
+    "GPSource": "Mobile App",
+    "Date": "09/23/2024"
+  },
+  {
+    "OutletName": "Outlet B",
+    "FullName": "Person 36",
+    "CardNo": "XXXX-XXXX-XXXX-5270",
+    "EntryNo": "100035",
+    "ExtRefId": "835752",
+    "GPSource": "Mobile App",
+    "Date": "10/29/2024"
+  },
+  {
+    "OutletName": "Outlet A",
+    "FullName": "Person 37",
+    "CardNo": "XXXX-XXXX-XXXX-2351",
+    "EntryNo": "100036",
+    "ExtRefId": "171124",
+    "GPSource": "Online",
+    "Date": "10/31/2024"
+  },
+  {
+    "OutletName": "Outlet A",
+    "FullName": "Person 38",
+    "CardNo": "XXXX-XXXX-XXXX-8868",
+    "EntryNo": "100037",
+    "ExtRefId": "683459",
+    "GPSource": "Mobile App",
+    "Date": "10/12/2024"
+  },
+  {
+    "OutletName": "Outlet D",
+    "FullName": "Person 39",
+    "CardNo": "XXXX-XXXX-XXXX-4505",
+    "EntryNo": "100038",
+    "ExtRefId": "149289",
+    "GPSource": "In-store",
+    "Date": "08/29/2024"
+  },
+  {
+    "OutletName": "Outlet B",
+    "FullName": "Person 40",
+    "CardNo": "XXXX-XXXX-XXXX-6566",
+    "EntryNo": "100039",
+    "ExtRefId": "691763",
+    "GPSource": "Online",
+    "Date": "03/30/2025"
+  },
+  {
+    "OutletName": "Outlet B",
+    "FullName": "Person 41",
+    "CardNo": "XXXX-XXXX-XXXX-4550",
+    "EntryNo": "100040",
+    "ExtRefId": "300232",
+    "GPSource": "Online",
+    "Date": "08/28/2024"
+  },
+  {
+    "OutletName": "Outlet D",
+    "FullName": "Person 42",
+    "CardNo": "XXXX-XXXX-XXXX-3911",
+    "EntryNo": "100041",
+    "ExtRefId": "845723",
+    "GPSource": "In-store",
+    "Date": "03/30/2024"
+  },
+  {
+    "OutletName": "Outlet D",
+    "FullName": "Person 43",
+    "CardNo": "XXXX-XXXX-XXXX-3122",
+    "EntryNo": "100042",
+    "ExtRefId": "289820",
+    "GPSource": "Online",
+    "Date": "02/18/2025"
+  },
+  {
+    "OutletName": "Outlet A",
+    "FullName": "Person 44",
+    "CardNo": "XXXX-XXXX-XXXX-5577",
+    "EntryNo": "100043",
+    "ExtRefId": "688742",
+    "GPSource": "Online",
+    "Date": "03/29/2024"
+  },
+  {
+    "OutletName": "Outlet D",
+    "FullName": "Person 45",
+    "CardNo": "XXXX-XXXX-XXXX-8375",
+    "EntryNo": "100044",
+    "ExtRefId": "649858",
+    "GPSource": "Mobile App",
+    "Date": "04/29/2024"
+  },
+  {
+    "OutletName": "Outlet A",
+    "FullName": "Person 46",
+    "CardNo": "XXXX-XXXX-XXXX-6047",
+    "EntryNo": "100045",
+    "ExtRefId": "620763",
+    "GPSource": "In-store",
+    "Date": "08/14/2024"
+  },
+  {
+    "OutletName": "Outlet C",
+    "FullName": "Person 47",
+    "CardNo": "XXXX-XXXX-XXXX-3545",
+    "EntryNo": "100046",
+    "ExtRefId": "418765",
+    "GPSource": "In-store",
+    "Date": "04/18/2024"
+  },
+  {
+    "OutletName": "Outlet C",
+    "FullName": "Person 48",
+    "CardNo": "XXXX-XXXX-XXXX-9292",
+    "EntryNo": "100047",
+    "ExtRefId": "595238",
+    "GPSource": "Online",
+    "Date": "11/05/2024"
+  },
+  {
+    "OutletName": "Outlet A",
+    "FullName": "Person 49",
+    "CardNo": "XXXX-XXXX-XXXX-7425",
+    "EntryNo": "100048",
+    "ExtRefId": "713928",
+    "GPSource": "Online",
+    "Date": "08/27/2024"
+  },
+  {
+    "OutletName": "Outlet A",
+    "FullName": "Person 50",
+    "CardNo": "XXXX-XXXX-XXXX-8543",
+    "EntryNo": "100049",
+    "ExtRefId": "746363",
+    "GPSource": "In-store",
+    "Date": "12/01/2024"
+  },
+  {
+    "OutletName": "Outlet C",
+    "FullName": "Person 51",
+    "CardNo": "XXXX-XXXX-XXXX-2632",
+    "EntryNo": "100050",
+    "ExtRefId": "526219",
+    "GPSource": "In-store",
+    "Date": "07/31/2024"
+  },
+  {
+    "OutletName": "Outlet A",
+    "FullName": "Person 52",
+    "CardNo": "XXXX-XXXX-XXXX-7014",
+    "EntryNo": "100051",
+    "ExtRefId": "641125",
+    "GPSource": "In-store",
+    "Date": "05/20/2024"
+  },
+  {
+    "OutletName": "Outlet C",
+    "FullName": "Person 53",
+    "CardNo": "XXXX-XXXX-XXXX-9787",
+    "EntryNo": "100052",
+    "ExtRefId": "688066",
+    "GPSource": "In-store",
+    "Date": "07/05/2024"
+  },
+  {
+    "OutletName": "Outlet C",
+    "FullName": "Person 54",
+    "CardNo": "XXXX-XXXX-XXXX-1182",
+    "EntryNo": "100053",
+    "ExtRefId": "140979",
+    "GPSource": "In-store",
+    "Date": "03/22/2024"
+  },
+  {
+    "OutletName": "Outlet B",
+    "FullName": "Person 55",
+    "CardNo": "XXXX-XXXX-XXXX-9362",
+    "EntryNo": "100054",
+    "ExtRefId": "790021",
+    "GPSource": "Mobile App",
+    "Date": "03/07/2025"
+  },
+  {
+    "OutletName": "Outlet C",
+    "FullName": "Person 56",
+    "CardNo": "XXXX-XXXX-XXXX-1646",
+    "EntryNo": "100055",
+    "ExtRefId": "888532",
+    "GPSource": "Mobile App",
+    "Date": "03/04/2024"
+  },
+  {
+    "OutletName": "Outlet B",
+    "FullName": "Person 57",
+    "CardNo": "XXXX-XXXX-XXXX-6071",
+    "EntryNo": "100056",
+    "ExtRefId": "991463",
+    "GPSource": "Mobile App",
+    "Date": "04/22/2024"
+  },
+  {
+    "OutletName": "Outlet A",
+    "FullName": "Person 58",
+    "CardNo": "XXXX-XXXX-XXXX-2493",
+    "EntryNo": "100057",
+    "ExtRefId": "699759",
+    "GPSource": "In-store",
+    "Date": "12/27/2024"
+  },
+  {
+    "OutletName": "Outlet D",
+    "FullName": "Person 59",
+    "CardNo": "XXXX-XXXX-XXXX-7311",
+    "EntryNo": "100058",
+    "ExtRefId": "796795",
+    "GPSource": "Mobile App",
+    "Date": "12/24/2024"
+  },
+  {
+    "OutletName": "Outlet A",
+    "FullName": "Person 60",
+    "CardNo": "XXXX-XXXX-XXXX-9719",
+    "EntryNo": "100059",
+    "ExtRefId": "993770",
+    "GPSource": "Online",
+    "Date": "02/28/2024"
+  },
+  {
+    "OutletName": "Outlet B",
+    "FullName": "Person 61",
+    "CardNo": "XXXX-XXXX-XXXX-3743",
+    "EntryNo": "100060",
+    "ExtRefId": "944855",
+    "GPSource": "Mobile App",
+    "Date": "05/08/2024"
+  },
+  {
+    "OutletName": "Outlet A",
+    "FullName": "Person 62",
+    "CardNo": "XXXX-XXXX-XXXX-5337",
+    "EntryNo": "100061",
+    "ExtRefId": "417808",
+    "GPSource": "Online",
+    "Date": "03/28/2024"
+  },
+  {
+    "OutletName": "Outlet D",
+    "FullName": "Person 63",
+    "CardNo": "XXXX-XXXX-XXXX-5830",
+    "EntryNo": "100062",
+    "ExtRefId": "672073",
+    "GPSource": "Online",
+    "Date": "03/27/2025"
+  },
+  {
+    "OutletName": "Outlet B",
+    "FullName": "Person 64",
+    "CardNo": "XXXX-XXXX-XXXX-2187",
+    "EntryNo": "100063",
+    "ExtRefId": "186452",
+    "GPSource": "Mobile App",
+    "Date": "06/03/2024"
+  },
+  {
+    "OutletName": "Outlet C",
+    "FullName": "Person 65",
+    "CardNo": "XXXX-XXXX-XXXX-7306",
+    "EntryNo": "100064",
+    "ExtRefId": "265298",
+    "GPSource": "Online",
+    "Date": "02/01/2025"
+  },
+  {
+    "OutletName": "Outlet D",
+    "FullName": "Person 66",
+    "CardNo": "XXXX-XXXX-XXXX-2150",
+    "EntryNo": "100065",
+    "ExtRefId": "500340",
+    "GPSource": "In-store",
+    "Date": "02/01/2025"
+  },
+  {
+    "OutletName": "Outlet B",
+    "FullName": "Person 67",
+    "CardNo": "XXXX-XXXX-XXXX-3819",
+    "EntryNo": "100066",
+    "ExtRefId": "238483",
+    "GPSource": "In-store",
+    "Date": "03/31/2025"
+  },
+  {
+    "OutletName": "Outlet C",
+    "FullName": "Person 68",
+    "CardNo": "XXXX-XXXX-XXXX-6307",
+    "EntryNo": "100067",
+    "ExtRefId": "173237",
+    "GPSource": "Online",
+    "Date": "12/22/2024"
+  },
+  {
+    "OutletName": "Outlet B",
+    "FullName": "Person 69",
+    "CardNo": "XXXX-XXXX-XXXX-8640",
+    "EntryNo": "100068",
+    "ExtRefId": "134281",
+    "GPSource": "In-store",
+    "Date": "01/15/2025"
+  },
+  {
+    "OutletName": "Outlet D",
+    "FullName": "Person 70",
+    "CardNo": "XXXX-XXXX-XXXX-9983",
+    "EntryNo": "100069",
+    "ExtRefId": "927044",
+    "GPSource": "Mobile App",
+    "Date": "10/29/2024"
+  },
+  {
+    "OutletName": "Outlet B",
+    "FullName": "Person 71",
+    "CardNo": "XXXX-XXXX-XXXX-5945",
+    "EntryNo": "100070",
+    "ExtRefId": "526646",
+    "GPSource": "Mobile App",
+    "Date": "03/30/2024"
+  },
+  {
+    "OutletName": "Outlet C",
+    "FullName": "Person 72",
+    "CardNo": "XXXX-XXXX-XXXX-8654",
+    "EntryNo": "100071",
+    "ExtRefId": "527058",
+    "GPSource": "Online",
+    "Date": "03/30/2025"
+  },
+  {
+    "OutletName": "Outlet C",
+    "FullName": "Person 73",
+    "CardNo": "XXXX-XXXX-XXXX-9269",
+    "EntryNo": "100072",
+    "ExtRefId": "592384",
+    "GPSource": "Online",
+    "Date": "02/20/2025"
+  },
+  {
+    "OutletName": "Outlet D",
+    "FullName": "Person 74",
+    "CardNo": "XXXX-XXXX-XXXX-9160",
+    "EntryNo": "100073",
+    "ExtRefId": "828904",
+    "GPSource": "Online",
+    "Date": "02/19/2025"
+  },
+  {
+    "OutletName": "Outlet D",
+    "FullName": "Person 75",
+    "CardNo": "XXXX-XXXX-XXXX-7933",
+    "EntryNo": "100074",
+    "ExtRefId": "113611",
+    "GPSource": "In-store",
+    "Date": "10/18/2024"
+  },
+  {
+    "OutletName": "Outlet A",
+    "FullName": "Person 76",
+    "CardNo": "XXXX-XXXX-XXXX-3300",
+    "EntryNo": "100075",
+    "ExtRefId": "792606",
+    "GPSource": "Mobile App",
+    "Date": "09/11/2024"
+  },
+  {
+    "OutletName": "Outlet C",
+    "FullName": "Person 77",
+    "CardNo": "XXXX-XXXX-XXXX-1438",
+    "EntryNo": "100076",
+    "ExtRefId": "360593",
+    "GPSource": "In-store",
+    "Date": "11/27/2024"
+  },
+  {
+    "OutletName": "Outlet A",
+    "FullName": "Person 78",
+    "CardNo": "XXXX-XXXX-XXXX-1600",
+    "EntryNo": "100077",
+    "ExtRefId": "146184",
+    "GPSource": "In-store",
+    "Date": "02/18/2024"
+  },
+  {
+    "OutletName": "Outlet D",
+    "FullName": "Person 79",
+    "CardNo": "XXXX-XXXX-XXXX-9215",
+    "EntryNo": "100078",
+    "ExtRefId": "778172",
+    "GPSource": "Mobile App",
+    "Date": "08/09/2024"
+  },
+  {
+    "OutletName": "Outlet A",
+    "FullName": "Person 80",
+    "CardNo": "XXXX-XXXX-XXXX-2010",
+    "EntryNo": "100079",
+    "ExtRefId": "555233",
+    "GPSource": "Online",
+    "Date": "02/14/2025"
+  },
+  {
+    "OutletName": "Outlet C",
+    "FullName": "Person 81",
+    "CardNo": "XXXX-XXXX-XXXX-6307",
+    "EntryNo": "100080",
+    "ExtRefId": "617933",
+    "GPSource": "Online",
+    "Date": "10/29/2024"
+  },
+  {
+    "OutletName": "Outlet A",
+    "FullName": "Person 82",
+    "CardNo": "XXXX-XXXX-XXXX-6283",
+    "EntryNo": "100081",
+    "ExtRefId": "160416",
+    "GPSource": "In-store",
+    "Date": "09/29/2024"
+  },
+  {
+    "OutletName": "Outlet B",
+    "FullName": "Person 83",
+    "CardNo": "XXXX-XXXX-XXXX-5826",
+    "EntryNo": "100082",
+    "ExtRefId": "969383",
+    "GPSource": "In-store",
+    "Date": "03/03/2025"
+  },
+  {
+    "OutletName": "Outlet A",
+    "FullName": "Person 84",
+    "CardNo": "XXXX-XXXX-XXXX-1498",
+    "EntryNo": "100083",
+    "ExtRefId": "579886",
+    "GPSource": "Online",
+    "Date": "01/29/2025"
+  },
+  {
+    "OutletName": "Outlet B",
+    "FullName": "Person 85",
+    "CardNo": "XXXX-XXXX-XXXX-8598",
+    "EntryNo": "100084",
+    "ExtRefId": "262279",
+    "GPSource": "In-store",
+    "Date": "06/23/2024"
+  },
+  {
+    "OutletName": "Outlet C",
+    "FullName": "Person 86",
+    "CardNo": "XXXX-XXXX-XXXX-7431",
+    "EntryNo": "100085",
+    "ExtRefId": "262211",
+    "GPSource": "In-store",
+    "Date": "08/17/2024"
+  },
+  {
+    "OutletName": "Outlet C",
+    "FullName": "Person 87",
+    "CardNo": "XXXX-XXXX-XXXX-3261",
+    "EntryNo": "100086",
+    "ExtRefId": "543836",
+    "GPSource": "Mobile App",
+    "Date": "02/21/2024"
+  },
+  {
+    "OutletName": "Outlet A",
+    "FullName": "Person 88",
+    "CardNo": "XXXX-XXXX-XXXX-2737",
+    "EntryNo": "100087",
+    "ExtRefId": "239398",
+    "GPSource": "Mobile App",
+    "Date": "08/10/2024"
+  },
+  {
+    "OutletName": "Outlet D",
+    "FullName": "Person 89",
+    "CardNo": "XXXX-XXXX-XXXX-8502",
+    "EntryNo": "100088",
+    "ExtRefId": "865637",
+    "GPSource": "In-store",
+    "Date": "11/05/2024"
+  },
+  {
+    "OutletName": "Outlet C",
+    "FullName": "Person 90",
+    "CardNo": "XXXX-XXXX-XXXX-3452",
+    "EntryNo": "100089",
+    "ExtRefId": "516135",
+    "GPSource": "Online",
+    "Date": "10/25/2024"
+  },
+  {
+    "OutletName": "Outlet D",
+    "FullName": "Person 91",
+    "CardNo": "XXXX-XXXX-XXXX-2020",
+    "EntryNo": "100090",
+    "ExtRefId": "844415",
+    "GPSource": "Mobile App",
+    "Date": "07/13/2024"
+  },
+  {
+    "OutletName": "Outlet D",
+    "FullName": "Person 92",
+    "CardNo": "XXXX-XXXX-XXXX-6278",
+    "EntryNo": "100091",
+    "ExtRefId": "448820",
+    "GPSource": "Online",
+    "Date": "02/28/2025"
+  },
+  {
+    "OutletName": "Outlet D",
+    "FullName": "Person 93",
+    "CardNo": "XXXX-XXXX-XXXX-1925",
+    "EntryNo": "100092",
+    "ExtRefId": "218725",
+    "GPSource": "Mobile App",
+    "Date": "02/22/2024"
+  },
+  {
+    "OutletName": "Outlet D",
+    "FullName": "Person 94",
+    "CardNo": "XXXX-XXXX-XXXX-8276",
+    "EntryNo": "100093",
+    "ExtRefId": "433531",
+    "GPSource": "Mobile App",
+    "Date": "02/06/2024"
+  },
+  {
+    "OutletName": "Outlet B",
+    "FullName": "Person 95",
+    "CardNo": "XXXX-XXXX-XXXX-1461",
+    "EntryNo": "100094",
+    "ExtRefId": "989043",
+    "GPSource": "In-store",
+    "Date": "09/09/2024"
+  },
+  {
+    "OutletName": "Outlet A",
+    "FullName": "Person 96",
+    "CardNo": "XXXX-XXXX-XXXX-3709",
+    "EntryNo": "100095",
+    "ExtRefId": "219396",
+    "GPSource": "Mobile App",
+    "Date": "11/13/2024"
+  },
+  {
+    "OutletName": "Outlet B",
+    "FullName": "Person 97",
+    "CardNo": "XXXX-XXXX-XXXX-6160",
+    "EntryNo": "100096",
+    "ExtRefId": "933565",
+    "GPSource": "Mobile App",
+    "Date": "08/14/2024"
+  },
+  {
+    "OutletName": "Outlet D",
+    "FullName": "Person 98",
+    "CardNo": "XXXX-XXXX-XXXX-8932",
+    "EntryNo": "100097",
+    "ExtRefId": "980565",
+    "GPSource": "In-store",
+    "Date": "03/04/2025"
+  },
+  {
+    "OutletName": "Outlet B",
+    "FullName": "Person 99",
+    "CardNo": "XXXX-XXXX-XXXX-8437",
+    "EntryNo": "100098",
+    "ExtRefId": "351102",
+    "GPSource": "Mobile App",
+    "Date": "09/08/2024"
+  },
+  {
+    "OutletName": "Outlet A",
+    "FullName": "Person 100",
+    "CardNo": "XXXX-XXXX-XXXX-2109",
+    "EntryNo": "100099",
+    "ExtRefId": "122072",
+    "GPSource": "In-store",
+    "Date": "02/22/2025"
+  }
+]
