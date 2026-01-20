@@ -1,5 +1,6 @@
 ## Credentials for Testing
 
+Open [this link](https://raffle-system-v.vercel.app/) with your browser to see the system.
 ```bash
 Username: admin
 Password: asdfqwer
